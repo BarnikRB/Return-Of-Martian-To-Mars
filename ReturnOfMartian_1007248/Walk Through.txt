@@ -1,0 +1,53 @@
+Whenever you enter a new area, deal with the riddle by first entering "generate riddle" followed by "try ANSWER" where answer is the correct answer to the mathematical riddle.
+
+You are at Bottom Of Mountain
+deal with the riddle, then enter following commands
+"go upwards"
+"get Jacket"
+"get Rope"
+"use Jacket"
+"use Rope"
+"go upwards"
+You are now at cliff of Mountain
+deal with riddle
+"remove Jacket"
+"remove Rope"
+"drop Jacket"
+"drop Rope"
+"get Hat"
+"use Hat"
+"go west"
+"advance west" :(Because you dont have the sunscream.)
+You are now at middle of dessert
+deal with riddle
+"get Sunscream"
+"use Sunscream"
+"go north"
+You are now at northern section of desert
+deal with the riddle
+"get Machette"
+"go south"
+You are now at middle of dessert
+deal with riddle
+"go south"
+You are now at the southern section of desert
+deal with the riddle
+"remove Hat"
+"drop Hat"
+"remove Sunscream"
+"drop Sunscream"
+"get Wellington Boots"
+"use Machette"
+"use Wellington Boots"
+"go west"
+(Then you will be travelling through the forest. In each section, deal with the ridddle and eat the nontoxic food after getting it in inventory. Repeat the steps below until the golden key is found which you should get in invenntory along with the golden apple)
+ south eastern section of forest->southern section of forest-> south-western section->western section-> central section-> eastern section->north eastern section->northern section->north-western section
+then go to the space station
+remove and drop the Machette and Wellinton Boots respectively.
+eat the golden apple
+and use the golden key.
+
+
+
+
+
